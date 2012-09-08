@@ -8,13 +8,7 @@ A small Flask extension that makes it easy to use Stylus with your Flask applica
 
 ### Install with PIP
 
-    pip install -e git+git@github.com:weapp/flask-stylus2css.git#egg=flask-stylus2css
-
-
-### Install with setup.py
-
-    git clone https://github.com/weapp/flask-stylus2css.git
-    python setup.py install
+    pip install flask-stylus2css
 
 
 ## Usage
